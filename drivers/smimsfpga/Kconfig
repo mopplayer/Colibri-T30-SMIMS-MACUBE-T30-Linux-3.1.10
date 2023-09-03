@@ -1,0 +1,6 @@
+config SMIMS_FPGA_Platform
+	bool "SMIMS FPGA driver for MaCube"
+	default n
+	---help---
+	  this is SMIMS FPGA driver for MaCube
+
